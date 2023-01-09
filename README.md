@@ -1,4 +1,4 @@
-# Creating a UI Kit: case study for Creative Practice #4
+# Creating a UI Kit: a case study for Creative Practice #4
 
 ![Example](Ui-kit-example.jpg)
 
